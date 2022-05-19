@@ -1,6 +1,6 @@
 package br.com.doceria;
 
-public class Doce {
+public abstract class Doce {
 
     private int quantidadeLeite;
     private int quantidadeAcucar;
